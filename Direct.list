@@ -1,5 +1,4 @@
 # MyList
-
 # 域名后缀匹配
 DOMAIN-SUFFIX,phrjy.com
 
@@ -9,3 +8,13 @@ DOMAIN-SUFFIX,phrjy.com
 # IP段匹配
 
 # 国内DNS
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,doh.360.cn
+IP-CIDR,119.29.29.29/32,no-resolve
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,223.6.6.6/32,no-resolve
+IP-CIDR,180.76.76.76/32,no-resolve
+IP-CIDR,114.114.114.114/32,no-resolve
+IP-CIDR,114.114.115.115/32,no-resolve
+IP-CIDR,1.12.12.12/32,no-resolve
